@@ -1,3 +1,3 @@
 # v2.0
-![Main page](images/home_screen.png)
+![Main page](/profile/images/home_screen.png)
 
